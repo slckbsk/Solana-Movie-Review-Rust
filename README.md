@@ -9,7 +9,7 @@ https://beta.solpg.io/63bf18bfc6bb8fea17cf0b86
 https://explorer.solana.com/tx/2wFTVRdZdjkGioc8MtPXujcnChTQ4GoJ5REsyRL5BEbuMMtmfhFYAR8Rzf4Q3pL1EmoSrNnu4dQPx6EXiS3mVpUh?cluster=devnet
 
 ## Vercel Link
-https://explorer.solana.com/tx/2wFTVRdZdjkGioc8MtPXujcnChTQ4GoJ5REsyRL5BEbuMMtmfhFYAR8Rzf4Q3pL1EmoSrNnu4dQPx6EXiS3mVpUh?cluster=devnet
+https://solana-movie-review-rust.vercel.app/
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

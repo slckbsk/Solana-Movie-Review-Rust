@@ -12,6 +12,8 @@ https://explorer.solana.com/tx/2wFTVRdZdjkGioc8MtPXujcnChTQ4GoJ5REsyRL5BEbuMMtmf
 https://solana-movie-review-rust.vercel.app/
 
 
+
+# --------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

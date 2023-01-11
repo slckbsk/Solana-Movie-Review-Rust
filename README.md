@@ -1,1 +1,1 @@
-# Solana-Movie_Review-Rust
+# Solana-Movie-Review-Rust
